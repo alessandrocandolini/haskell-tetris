@@ -1,0 +1,14 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-tetris:lib"
+
+    - path: "./app/Main.hs"
+      component: "haskell-tetris:exe:haskell-tetris-exe"
+
+    - path: "./app/Paths_haskell-tetris.hs"
+      component: "haskell-tetris:exe:haskell-tetris-exe"
+
+    - path: "./test"
+      component: "haskell-tetris:test:haskell-tetris-test"
+
