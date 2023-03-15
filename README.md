@@ -1,3 +1,5 @@
+[![CI](https://github.com/alessandrocandolini/haskell-tetris/actions/workflows/ci.yml/badge.svg)](https://github.com/alessandrocandolini/haskell-tetris/actions/workflows/ci.yml) [![codecov](https://codecov.io/gh/alessandrocandolini/haskell-tetris/branch/main/graph/badge.svg?token=RTPey2Gwl7)](https://codecov.io/gh/alessandrocandolini/haskell-tetris)
+
 # haskell-tetris
 
 ## How to build and run locally
